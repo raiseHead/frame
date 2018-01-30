@@ -22,6 +22,10 @@ class indexCtrl extends \core\kj
 
     public function ads()
     {
+        echo 2;
+
+
+        echo 22222333;
         echo 1111;
     }
 }
