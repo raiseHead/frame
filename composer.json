@@ -1,0 +1,10 @@
+{
+  "name": "kj/php",
+  "description": "php-des library",
+  "keywords": [
+    "php"
+  ],
+  "require":{
+    "filp/whoops": "*"
+  }
+}
